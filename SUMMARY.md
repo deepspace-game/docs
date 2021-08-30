@@ -6,9 +6,10 @@
 
 * [Planets](game/planets.md)
 
-## Website
+## Official Website <a id="website"></a>
 
 * [DPS.FYI Cheat Sheet](website/dps-short-links.md)
+* [Official Website](https://deepspace.game)
 * [Project Pitch](https://dps.fyi/pitch)
 * [Whitepaper](https://dps.fyi/whitepaper)
 

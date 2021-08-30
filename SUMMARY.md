@@ -12,10 +12,6 @@
 * [Project Pitch](https://dps.fyi/pitch)
 * [Whitepaper](https://dps.fyi/whitepaper)
 
----
-
-* [Partners](partners.md)
-
 ## Token Stats
 
 * [General Info](token-stats/general-info.md)

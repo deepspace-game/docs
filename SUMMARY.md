@@ -20,5 +20,6 @@
 
 ## Pricebot
 
+* [General Info](pricebot/general-info.md)
 * [API Methods](pricebot/api-methods.md)
 

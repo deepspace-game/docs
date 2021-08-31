@@ -32,6 +32,16 @@ Total Supply successfully retrieved.
 89862942.99096464
 ```
 {% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=400 %}
+{% api-method-response-example-description %}
+Invalid command sent.
+{% endapi-method-response-example-description %}
+
+```
+invalid command
+```
+{% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
@@ -56,6 +66,16 @@ Circulating Supply successfully retrieved.
 
 ```
 58007555.857481994
+```
+{% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=400 %}
+{% api-method-response-example-description %}
+Invalid command sent.
+{% endapi-method-response-example-description %}
+
+```
+invalid command
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
@@ -207,6 +227,16 @@ Token information successfully retrieved.
   ],
   "last_updated": "Mon Aug 30 2021 15:09:13 GMT+0000 (Coordinated Universal Time)"
 }
+```
+{% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=400 %}
+{% api-method-response-example-description %}
+Invalid command sent.
+{% endapi-method-response-example-description %}
+
+```
+invalid command
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}

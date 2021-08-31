@@ -82,9 +82,45 @@ invalid command
 {% endapi-method-spec %}
 {% endapi-method %}
 
+{% api-method method="get" host="https://token.deepspace.game" path="/api/price" %}
+{% api-method-summary %}
+Price
+{% endapi-method-summary %}
+
+{% api-method-description %}
+This endpoint allows you to get Price for DEEPSPACE \(DPS\) token.
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+0.07179762303241174
+```
+{% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=400 %}
+{% api-method-response-example-description %}
+Invalid command sent.
+{% endapi-method-response-example-description %}
+
+```
+invalid command
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
+
 {% api-method method="get" host="https://token.deepspace.game" path="/api" %}
 {% api-method-summary %}
-DEEPSPACE Token Information
+Token Information
 {% endapi-method-summary %}
 
 {% api-method-description %}

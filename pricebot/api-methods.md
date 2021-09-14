@@ -29,7 +29,7 @@ Price successfully retrieved.
 {% endapi-method-response-example-description %}
 
 ```
-{"price":0.06260323695247162,"TOKEN_BNB":0.0001329353463709432,"BNB_USD":470.92995701672425}
+{"price":0.029047851950416766,"TOKEN_BNB":0.00007096305321524767,"BNB_USD":409.3376853770339}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}

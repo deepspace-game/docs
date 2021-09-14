@@ -12,5 +12,9 @@ Access pricebot api at: [https://dps.fyi/price](https://dps.fyi/price)
 
 Telegram Bot: Add @priceymcpricebot to your channel to get DEEPSPACE \(DPS\) price in your group!
 
+Simply call /price when the bot is in your group
+
+![Sample response for @priceymcpricebot](../.gitbook/assets/capture.png)
+
 Discord Bot: \[in progress\]
 

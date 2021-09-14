@@ -82,6 +82,42 @@ invalid command
 {% endapi-method-spec %}
 {% endapi-method %}
 
+{% api-method method="get" host="https://token.deepspace.game" path="/api/holders" %}
+{% api-method-summary %}
+
+{% endapi-method-summary %}
+
+{% api-method-description %}
+This endpoint allows you to get Holders for DEEPSPACE \(DPS\) token.
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+3576
+```
+{% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=400 %}
+{% api-method-response-example-description %}
+Invalid command sent.
+{% endapi-method-response-example-description %}
+
+```
+invalid command
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
+
 {% api-method method="get" host="https://token.deepspace.game" path="/api/price" %}
 {% api-method-summary %}
 Price

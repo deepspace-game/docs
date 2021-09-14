@@ -16,7 +16,7 @@ Price
 {% endapi-method-summary %}
 
 {% api-method-description %}
-This endpoint allows you to get free cakes.
+This endpoint allows you to get the Price for DEEPSPACE \(DPS\) token and for Binance Coin \(BNB\).
 {% endapi-method-description %}
 
 {% api-method-spec %}

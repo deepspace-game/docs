@@ -14,11 +14,11 @@ description: All the different examples of how to acquire DEEPSPACE - $DPS
 We support the most popular wallet services out as of this time
 {% endhint %}
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 4. Enter the amount of DPS and/or the token your swapping from \(BNB in the below example\) and then when you are ready, click Swap and confirm the transaction through your wallet provider.
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
 ## Disclaimer
 

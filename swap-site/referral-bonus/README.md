@@ -23,11 +23,11 @@ You are now able to generate your own personal referral link at the bottom of [h
 We support the most popular wallet services out as of this time
 {% endhint %}
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../../.gitbook/assets/image%20%285%29.png)
 
 4. At the bottom of the site, click "generate referral link" and confirm the blockchain transaction.
 
-![](../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image.png)
 
 You will then see your link appear below.
 

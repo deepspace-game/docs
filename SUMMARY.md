@@ -16,8 +16,8 @@
 ## Swap Site
 
 * [How To Buy DPS](swap-site/how-to-buy-dps.md)
-* [Referral Bonus](swap-site/referral-bonus/README.md)
-  * [Buy DPS with FIAT](swap-site/referral-bonus/buy-dps-with-fiat.md)
+* [Referral Bonus](swap-site/referral-bonus.md)
+* [Buy DPS with FIAT](swap-site/buy-dps-with-fiat.md)
 
 ## Token Stats
 

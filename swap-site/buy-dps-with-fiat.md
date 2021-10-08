@@ -20,9 +20,9 @@ Once you acquire BNB, you can swap it for DPS
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
-4. Click the "Add cash to your wallet" button
+4. Click the "Buy BNB" in the top left button
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 5. Follow the prompts to complete the identity and verification questions.  If successful, your wallet will then contain BNB.
 
@@ -30,7 +30,7 @@ Once you acquire BNB, you can swap it for DPS
 
 6. From there to acquire DPS, simply enter the amount of BNB you would like to sell, or DPS you would like to acquire, and click "Swap".  if the transaction is successfully confirmed, you will have DPS in your wallet.
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 
 

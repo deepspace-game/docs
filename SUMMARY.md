@@ -17,7 +17,6 @@
 
 * [How To Buy DPS](swap-site/how-to-buy-dps.md)
 * [Referral Bonus](swap-site/referral-bonus.md)
-* [Untitled](swap-site/untitled.md)
 
 ## Token Stats
 

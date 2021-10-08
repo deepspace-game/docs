@@ -10,6 +10,10 @@ description: Ways to acquire DEEPSPACE with FIAT
 Flooz.Trade supports buying BNB with Apple Pay, Credit Card, bank transfer and a variety of local payment methods in over 180 countries.
 {% endhint %}
 
+{% hint style="success" %}
+Once you acquire BNB, you can swap it for DPS
+{% endhint %}
+
 1. To access our DPS site on Flooz.Trade, navigate to [https://dps.fyi/flt](https://dps.fyi/flt)
 2. Click "Connect" in the top right to connect your wallet.
 3. Select the wallet service you would like to use to connect your wallet to

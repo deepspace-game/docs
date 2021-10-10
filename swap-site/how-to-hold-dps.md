@@ -1,6 +1,7 @@
 ---
 description: All the different examples of how to obtain a wallet to hold DEEPSPACE - $DPS
 ---
+
 # How To Hold DPS
 
 ## Using Trust Wallet
@@ -49,6 +50,6 @@ Be sure to secure the wallet, backup the wallet passphrase, and NEVER give out t
 
 4\. Once your wallet passphrase has been verified and you are on the main wallet screen, select the wallet Network at the top, then select "Custom RPC"
 
-*
+
 
 ![](broken-reference)

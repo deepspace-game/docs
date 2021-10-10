@@ -42,5 +42,9 @@ MetaMask will allow for you to hold DEEPSPACE (DPS) and below are the instructio
 1. From your supported browser, iOS, or Android device, download the [MetaMask app](https://metamask.io/download).
 2. Once MetaMask enabled, select "Create a wallet"
 3. Enter a password to protect the wallet (only applies to this particular device)
-4.
 
+{% hint style="warning" %}
+Be sure to secure the wallet, backup the wallet passphrase, and NEVER give out the wallet passphrase.
+{% endhint %}
+
+4\. On the 

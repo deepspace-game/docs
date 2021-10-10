@@ -16,7 +16,7 @@ Be sure to back up your wallet address during this time, keep it in a safe spot,
 
 3\. Verify your passphrase and you will be at the main wallet screen
 
-![](../.gitbook/assets/IMG\_1068.PNG)
+![](broken-reference)
 
 4\. In the top right corner, select the two line with circles button, type DEEPSPACE in the search, and click "Add Custom Token".
 

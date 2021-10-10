@@ -54,4 +54,12 @@ Be sure to secure the wallet, backup the wallet passphrase, and NEVER give out t
 
 5\. Enter the following details for the Custom RPC Network to add Binance Smart Chain as a network. For additional background see [Binance's official documentation](https://docs.binance.org/smart-chain/wallet/metamask.html).
 
-* Net
+* Network Name: Binance Smart Chain - Mainnet
+* New RPC URL: [https://bsc-dataseed.binance.org/](https://bsc-dataseed.binance.org)
+* Chain ID: 0x38
+* Currency Symbol: BNB
+* Block Explorer URL: [https://bscscan.com](https://bscscan.com)
+
+Click Save and select this network to use.
+
+6\. 

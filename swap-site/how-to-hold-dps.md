@@ -59,7 +59,8 @@ Be sure to secure the wallet, backup the wallet passphrase, and NEVER give out t
 * Chain ID: 0x38
 * Currency Symbol: BNB
 * Block Explorer URL: [https://bscscan.com](https://bscscan.com)
+*
 
 Click Save and select this network to use.
 
-6\. 
+6\. To easily add DPS as a token in your wallet, go to [https://app.deepspace.game/swap](https://app.deepspace.game/swap), connect your wallet

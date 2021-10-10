@@ -50,6 +50,8 @@ Be sure to secure the wallet, backup the wallet passphrase, and NEVER give out t
 
 4\. Once your wallet passphrase has been verified and you are on the main wallet screen, select the wallet Network at the top, then select "Custom RPC"
 
-
-
 ![](broken-reference)
+
+5\. Enter the following details for the Custom RPC Network to add Binance Smart Chain as a network. 
+
+*

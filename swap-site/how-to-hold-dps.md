@@ -40,5 +40,5 @@ The [swap site](https://dps.fyi/swap) can now be used to acquire DPS, [learn mor
 MetaMask will allow for you to hold DEEPSPACE (DPS) and below are the instructions for setting up a wallet.
 
 1. From your supported browser, iOS, or Android device, download the [MetaMask app](https://metamask.io/download).
-2.
+2. Selec
 

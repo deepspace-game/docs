@@ -50,7 +50,7 @@ Be sure to secure the wallet, backup the wallet passphrase, and NEVER give out t
 
 4\. Once your wallet passphrase has been verified and you are on the main wallet screen, select the wallet Network at the top, then select "Custom RPC"
 
-![](broken-reference)
+![](<../.gitbook/assets/Screenshot 2021-10-10 120618.png>)
 
 5\. Enter the following details for the Custom RPC Network to add Binance Smart Chain as a network. For additional background see [Binance's official documentation](https://docs.binance.org/smart-chain/wallet/metamask.html).
 
@@ -60,7 +60,7 @@ Be sure to secure the wallet, backup the wallet passphrase, and NEVER give out t
 * Currency Symbol: BNB
 * Block Explorer URL: [https://bscscan.com](https://bscscan.com)
 
-![](broken-reference)
+![](<../.gitbook/assets/Screenshot 2021-10-10 130147.png>)
 
 Click Save and select this network to use.
 
@@ -68,10 +68,10 @@ Click Save and select this network to use.
 To easily add DPS as a token in your MetaMask wallet, go to [https://dps.fyi/swap](https://dps.fyi/swap), connect your wallet, then click the DPS Logo to automatically add the token.
 {% endhint %}
 
-![](broken-reference)
+![](<../.gitbook/assets/image (10).png>)
 
 {% hint style="info" %}
-To obtain your wallet address, go to MetaMask, select Receive and copy the address.
+To obtain your wallet address, go to MetaMask, select Copy to Clipboard next to address under your account name.
 
 The [swap site](https://dps.fyi/swap) can now be used to acquire DPS, [learn more here](how-to-buy-dps.md).
 {% endhint %}

@@ -69,3 +69,9 @@ To easily add DPS as a token in your MetaMask wallet, go to [https://dps.fyi/swa
 {% endhint %}
 
 ![](broken-reference)
+
+{% hint style="info" %}
+To obtain your wallet address, go to MetaMask, select Receive and copy the address.
+
+The [swap site](https://dps.fyi/swap) can now be used to acquire DPS, [learn more here](how-to-buy-dps.md).
+{% endhint %}

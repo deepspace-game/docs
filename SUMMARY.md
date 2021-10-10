@@ -6,10 +6,11 @@
 
 * [Planets](game/planets.md)
 
-## Official Website <a id="website"></a>
+## Official Website <a href="website" id="website"></a>
 
 * [DPS.FYI Cheat Sheet](website/dps-short-links.md)
 * [Official Website](https://deepspace.game)
+* [Wallet](https://dps.fyi/wallet)
 * [Project Pitch](https://dps.fyi/pitch)
 * [Whitepaper](https://dps.fyi/whitepaper)
 
@@ -28,4 +29,3 @@
 
 * [General Info](pricebot/general-info.md)
 * [API Methods](pricebot/api-methods.md)
-

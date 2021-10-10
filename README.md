@@ -1,7 +1,6 @@
 ---
 description: General Page - Under Construction
 ---
-
 # DEEPSPACE Public Docs
 
 {% hint style="warning" %}
@@ -20,5 +19,4 @@ A blockchain-based Play-to-Earn game with a supporting NFT marketplace is curren
 
 Grab a starship and explore the galaxy of DEEPSPACE. Travel to the edges of the galaxy to mine, build, and battle!
 
-**Learn More at** [**https://deepspace.game**](https://deepspace.game)\*\*\*\*
-
+**Learn More at **[**https://deepspace.game**](https://deepspace.game)****

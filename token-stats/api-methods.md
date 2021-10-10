@@ -1,177 +1,90 @@
 ---
-description: >-
-  Describes supported calls for the Token Stats service provided by the
-  DEEPSPACE Team
+description: Describes supported calls for the Token Stats service provided by the DEEPSPACE Team
 ---
-
 # API Methods
 
 {% hint style="warning" %}
 _**IN DEVELOPMENT - Content subject to change**_
 {% endhint %}
 
-{% api-method method="get" host="https://token.deepspace.game" path="/api/totalsupply" %}
-{% api-method-summary %}
-Total Supply
-{% endapi-method-summary %}
+{% swagger baseUrl="https://token.deepspace.game" path="/api/totalsupply" method="get" summary="Total Supply" %}
+{% swagger-description %}
+This endpoint allows you to get Total Supply for DEEPSPACE (DPS) token
+{% endswagger-description %}
 
-{% api-method-description %}
-This endpoint allows you to get Total Supply for DEEPSPACE \(DPS\) token
-{% endapi-method-description %}
-
-{% api-method-spec %}
-{% api-method-request %}
-
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-Total Supply successfully retrieved.
-{% endapi-method-response-example-description %}
-
+{% swagger-response status="200" description="Total Supply successfully retrieved." %}
 ```
 89862942.99096464
 ```
-{% endapi-method-response-example %}
+{% endswagger-response %}
 
-{% api-method-response-example httpCode=400 %}
-{% api-method-response-example-description %}
-Invalid command sent.
-{% endapi-method-response-example-description %}
-
+{% swagger-response status="400" description="Invalid command sent." %}
 ```
 invalid command
 ```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
+{% endswagger-response %}
+{% endswagger %}
 
-{% api-method method="get" host="https://token.deepspace.game" path="/api/circulatingsupply" %}
-{% api-method-summary %}
-Circulating Supply
-{% endapi-method-summary %}
+{% swagger baseUrl="https://token.deepspace.game" path="/api/circulatingsupply" method="get" summary="Circulating Supply" %}
+{% swagger-description %}
+This endpoint allows you to get Circulating Supply for DEEPSPACE (DPS) token.
+{% endswagger-description %}
 
-{% api-method-description %}
-This endpoint allows you to get Circulating Supply for DEEPSPACE \(DPS\) token.
-{% endapi-method-description %}
-
-{% api-method-spec %}
-{% api-method-request %}
-
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-Circulating Supply successfully retrieved.
-{% endapi-method-response-example-description %}
-
+{% swagger-response status="200" description="Circulating Supply successfully retrieved." %}
 ```
 58007555.857481994
 ```
-{% endapi-method-response-example %}
+{% endswagger-response %}
 
-{% api-method-response-example httpCode=400 %}
-{% api-method-response-example-description %}
-Invalid command sent.
-{% endapi-method-response-example-description %}
-
+{% swagger-response status="400" description="Invalid command sent." %}
 ```
 invalid command
 ```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
+{% endswagger-response %}
+{% endswagger %}
 
-{% api-method method="get" host="https://token.deepspace.game" path="/api/holders" %}
-{% api-method-summary %}
+{% swagger baseUrl="https://token.deepspace.game" path="/api/holders" method="get" summary="" %}
+{% swagger-description %}
+This endpoint allows you to get Holders for DEEPSPACE (DPS) token.
+{% endswagger-description %}
 
-{% endapi-method-summary %}
-
-{% api-method-description %}
-This endpoint allows you to get Holders for DEEPSPACE \(DPS\) token.
-{% endapi-method-description %}
-
-{% api-method-spec %}
-{% api-method-request %}
-
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-
-{% endapi-method-response-example-description %}
-
+{% swagger-response status="200" description="" %}
 ```
 3576
 ```
-{% endapi-method-response-example %}
+{% endswagger-response %}
 
-{% api-method-response-example httpCode=400 %}
-{% api-method-response-example-description %}
-Invalid command sent.
-{% endapi-method-response-example-description %}
-
+{% swagger-response status="400" description="Invalid command sent." %}
 ```
 invalid command
 ```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
+{% endswagger-response %}
+{% endswagger %}
 
-{% api-method method="get" host="https://token.deepspace.game" path="/api/price" %}
-{% api-method-summary %}
-Price
-{% endapi-method-summary %}
+{% swagger baseUrl="https://token.deepspace.game" path="/api/price" method="get" summary="Price" %}
+{% swagger-description %}
+This endpoint allows you to get Price for DEEPSPACE (DPS) token.
+{% endswagger-description %}
 
-{% api-method-description %}
-This endpoint allows you to get Price for DEEPSPACE \(DPS\) token.
-{% endapi-method-description %}
-
-{% api-method-spec %}
-{% api-method-request %}
-
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-
-{% endapi-method-response-example-description %}
-
+{% swagger-response status="200" description="" %}
 ```
 0.07179762303241174
 ```
-{% endapi-method-response-example %}
+{% endswagger-response %}
 
-{% api-method-response-example httpCode=400 %}
-{% api-method-response-example-description %}
-Invalid command sent.
-{% endapi-method-response-example-description %}
-
+{% swagger-response status="400" description="Invalid command sent." %}
 ```
 invalid command
 ```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
+{% endswagger-response %}
+{% endswagger %}
 
-{% api-method method="get" host="https://token.deepspace.game" path="/api" %}
-{% api-method-summary %}
-Token Information
-{% endapi-method-summary %}
+{% swagger baseUrl="https://token.deepspace.game" path="/api" method="get" summary="Token Information" %}
+{% swagger-description %}
+This endpoint allows you to get token information for DEEPSPACE (DPS).
+{% endswagger-description %}
 
-{% api-method-description %}
-This endpoint allows you to get token information for DEEPSPACE \(DPS\).
-{% endapi-method-description %}
-
-{% api-method-spec %}
-{% api-method-request %}
-
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-Token information successfully retrieved.
-{% endapi-method-response-example-description %}
-
+{% swagger-response status="200" description="Token information successfully retrieved." %}
 ```
 {
   "contract": "0xf275e1AC303a4C9D987a2c48b8E555A77FeC3F1C",
@@ -314,20 +227,12 @@ Token information successfully retrieved.
   "last_updated": "Tue Sep 14 2021 15:35:32 GMT+0000 (Coordinated Universal Time)"
 }
 ```
-{% endapi-method-response-example %}
+{% endswagger-response %}
 
-{% api-method-response-example httpCode=400 %}
-{% api-method-response-example-description %}
-Invalid command sent.
-{% endapi-method-response-example-description %}
-
+{% swagger-response status="400" description="Invalid command sent." %}
 ```
 invalid command
 ```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
-
-
+{% endswagger-response %}
+{% endswagger %}
 

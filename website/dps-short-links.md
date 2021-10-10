@@ -1,13 +1,12 @@
 ---
-description: 'Cheat sheet of https://dps.fyi short links'
+description: Cheat sheet of https://dps.fyi short links
 ---
-
 # DPS.FYI Cheat Sheet
 
 ## **DPS.FYI Active Links**
 
 {% hint style="info" %}
-💡 **Tip: Have a request for a** [**https://dps.fyi/**](https://dps.fyi) **short link? Contact** [**hello@deepspace.game**](mailto:hello@deepspace.game) **and make a request**
+💡 **Tip: Have a request for a **[**https://dps.fyi/**](https://dps.fyi)** short link? Contact **[**hello@deepspace.game**](mailto:hello@deepspace.game)** and make a request**
 {% endhint %}
 
 {% tabs %}
@@ -71,7 +70,6 @@ description: 'Cheat sheet of https://dps.fyi short links'
 {% endtab %}
 {% endtabs %}
 
-### 
+###
 
-### 
-
+###

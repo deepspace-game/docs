@@ -52,6 +52,6 @@ Be sure to secure the wallet, backup the wallet passphrase, and NEVER give out t
 
 ![](broken-reference)
 
-5\. Enter the following details for the Custom RPC Network to add Binance Smart Chain as a network. 
+5\. Enter the following details for the Custom RPC Network to add Binance Smart Chain as a network. For additional background see [Binance's official documentation](https://docs.binance.org/smart-chain/wallet/metamask.html).
 
 *

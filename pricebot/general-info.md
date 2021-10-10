@@ -13,6 +13,6 @@ Telegram Bot: Add @priceymcpricebot to your channel to get DEEPSPACE (DPS) price
 
 Simply call /price when the bot is in your group
 
-![Sample response for @priceymcpricebot](../.gitbook/assets/Capture.PNG)
+![Sample response for @priceymcpricebot](../.gitbook/assets/capture.png)
 
 Discord Bot: \[in progress]

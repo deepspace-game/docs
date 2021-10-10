@@ -16,6 +16,7 @@
 
 ## Swap Site
 
+* [How To Hold DPS](swap-site/how-to-hold-dps.md)
 * [How To Buy DPS](swap-site/how-to-buy-dps.md)
 * [Referral Bonus](swap-site/referral-bonus.md)
 * [Buy DPS with FIAT](swap-site/buy-dps-with-fiat.md)

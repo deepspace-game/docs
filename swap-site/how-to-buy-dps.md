@@ -17,11 +17,11 @@ Need to use FIAT to obtain cryptocurrency? [Learn more here](buy-dps-with-fiat.m
 We support the most popular wallet services out as of this time
 {% endhint %}
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (5).png>)
 
 4\. Enter the amount of DPS and/or the token your swapping from (BNB in the below example) and then when you are ready, click Swap and confirm the transaction through your wallet provider.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (2).png>)
 
 ## Disclaimer
 

@@ -64,3 +64,7 @@ Be sure to secure the wallet, backup the wallet passphrase, and NEVER give out t
 
 Click Save and select this network to use.
 
+{% hint style="success" %}
+To easily add DPS as a token in your MetaMask wallet, go to [https://app.deepspace.game/swap](https://app.deepspace.game/swap), connect your wallet, then click the DPS Logo to automatically add the token.
+{% endhint %}
+

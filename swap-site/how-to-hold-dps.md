@@ -47,4 +47,4 @@ MetaMask will allow for you to hold DEEPSPACE (DPS) and below are the instructio
 Be sure to secure the wallet, backup the wallet passphrase, and NEVER give out the wallet passphrase.
 {% endhint %}
 
-4\. On the 
+4\. Once your wallet passphrase has been verified and you are on the main wallet screen, selec the wallet Network at the top

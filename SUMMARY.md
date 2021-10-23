@@ -5,6 +5,7 @@
 ## Game
 
 * [Planets](game/planets.md)
+* [Game Flow](game/game-flow.md)
 
 ## Official Website <a href="website" id="website"></a>
 
